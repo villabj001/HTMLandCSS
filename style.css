@@ -7,3 +7,7 @@ p {
   font-size: 18px;
   font-weight: bold;
 }
+
+th {
+   color: blue;
+}
