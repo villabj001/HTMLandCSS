@@ -1,8 +1,34 @@
-p {
-  color: crimson;
-  font-family: Helvetica;
+<!--Jason Villablanca-->
+<!--Quiz 2A style.css-->
+<!--Nov 18, 2021-->
+<!--TEJ20-->
+
+
+
+body {
+  background-color: yellow;
 }
 
-th {
-   color: blue;
+h2 {
+  color: brown;
+  background-color: pink;
+  text-transform: uppercase;
+}
+
+#MD {
+  color: black;
+  background-color: green;
+}
+
+.list li{
+  color: orange;
+}
+
+#first {
+  color: red;
+}
+
+.ItalyP {
+  font-size: 30px;
+  font-family:  Lucida Console;
 }
